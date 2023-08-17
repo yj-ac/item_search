@@ -25,5 +25,5 @@ def main():
         else:
             st.error('データ取得に失敗しました。正しいコードを入力してください。')
 
-if __name__ == '__main__':
-    main()
+# if __name__ == '__main__':
+#     main()
